@@ -1,0 +1,24 @@
+{
+  "name": "stillgettingstarted",
+  "version": "1.0.0",
+  "description": "knowing npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarathAdhithya/sampleReact.git"
+  },
+  "keywords": [
+    "react",
+    "reactbasics",
+    "reactapp"
+  ],
+  "author": "shivbarath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarathAdhithya/sampleReact/issues"
+  },
+  "homepage": "https://github.com/BarathAdhithya/sampleReact#readme"
+}
